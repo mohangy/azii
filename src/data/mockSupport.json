@@ -1,0 +1,4 @@
+[
+  {"id": "t1", "subject": "Can't connect to internet", "status": "open", "user": "john", "createdAt": "2025-10-10T08:30:00Z", "comments": [{"by":"support","text":"Please reboot your router","at":"2025-10-10T09:00:00Z"}]},
+  {"id": "t2", "subject": "Payment not reflected", "status": "pending", "user": "alice", "createdAt": "2025-10-09T11:20:00Z", "comments": []}
+]

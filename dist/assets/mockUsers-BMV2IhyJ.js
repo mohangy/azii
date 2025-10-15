@@ -1,0 +1,1 @@
+const e=[{username:"john",type:"PPPoE",package:"Basic",status:"Active",createdAt:"2025-10-12T08:10:00Z"},{username:"alice",type:"Hotspot",package:"Pro",status:"Active",createdAt:"2025-10-11T12:00:00Z"},{username:"bob",type:"PPPoE",package:"Basic",status:"Suspended",createdAt:"2025-10-10T09:30:00Z"}];export{e as default};

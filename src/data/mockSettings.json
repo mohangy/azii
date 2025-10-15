@@ -1,0 +1,6 @@
+{
+  "profile": {"name": "Admin", "email": "admin@fastnet.example"},
+  "theme": "dark",
+  "mpesa": {"consumerKey":"abc123","consumerSecret":"***"},
+  "sms": {"provider": "mock", "apiKey":"xyz"}
+}

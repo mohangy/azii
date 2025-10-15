@@ -1,0 +1,9 @@
+[
+  {"ref":"MPESA123","user":"john","amount":12.5,"date":"2025-09-12","status":"Processed","type":"Mobile Money","createdAt":"2025-10-12T10:00:00Z"},
+  {"ref":"MPESA124","user":"alice","amount":8.0,"date":"2025-09-12","status":"Pending","type":"Mobile Money","createdAt":"2025-10-12T09:45:00Z"},
+  {"ref":"CASH001","user":"bob","amount":25.0,"date":"2025-09-13","status":"Processed","type":"Cash/Manual Recharge","createdAt":"2025-10-13T14:30:00Z"},
+  {"ref":"MPESA125","user":"carol","amount":15.5,"date":"2025-09-14","status":"Processed","type":"Mobile Money","createdAt":"2025-10-14T08:20:00Z"},
+  {"ref":"CASH002","user":"dave","amount":10.0,"date":"2025-09-14","status":"Processed","type":"Cash/Manual Recharge","createdAt":"2025-10-14T16:45:00Z"},
+  {"ref":"MPESA126","user":"eve","amount":20.0,"date":"2025-09-15","status":"Failed","type":"Mobile Money","createdAt":"2025-10-15T11:15:00Z"},
+  {"ref":"CASH003","user":"frank","amount":30.0,"date":"2025-09-15","status":"Processed","type":"Cash/Manual Recharge","createdAt":"2025-10-15T13:00:00Z"}
+]

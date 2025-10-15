@@ -1,0 +1,5 @@
+[
+  {"id":1, "name":"Basic", "speed":"2Mbps", "duration":"30 days", "price":5},
+  {"id":2, "name":"Pro", "speed":"10Mbps", "duration":"30 days", "price":15},
+  {"id":3, "name":"Unlimited", "speed":"50Mbps", "duration":"30 days", "price":40}
+]

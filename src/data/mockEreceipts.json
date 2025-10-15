@@ -1,0 +1,4 @@
+[
+  {"id":"r1","ref":"MPESA100","user":"john","amount":250,"date":"2025-10-01T10:00:00Z","status":"processed"},
+  {"id":"r2","ref":"MPESA101","user":"alice","amount":500,"date":"2025-10-02T11:20:00Z","status":"pending"}
+]

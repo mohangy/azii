@@ -1,0 +1,54 @@
+{
+  "overview": {
+    "today": 124.50,
+    "todayDelta": 3.2,
+    "month": 7840.00,
+    "monthDelta": 5.1,
+    "activeUsers": 1240,
+    "activeDelta": 1.2,
+    "onlineUsers": 120,
+    "onlineDelta": -0.5
+  },
+  "chartData": {
+    "daily": [
+      {"date":"2025-09-12","income":200},
+      {"date":"2025-09-13","income":180},
+      {"date":"2025-09-14","income":240},
+      {"date":"2025-09-15","income":300},
+      {"date":"2025-09-16","income":220},
+      {"date":"2025-09-17","income":260},
+      {"date":"2025-09-18","income":280}
+    ],
+    "weekly": [
+      {"date":"2025-W33","income":1400},
+      {"date":"2025-W34","income":1560},
+      {"date":"2025-W35","income":1320},
+      {"date":"2025-W36","income":1680},
+      {"date":"2025-W37","income":1540}
+    ],
+    "monthly": [
+      {"date":"Jan","mobile":320000, "cash":5000},
+      {"date":"Feb","mobile":420000, "cash":4000},
+      {"date":"Mar","mobile":430000, "cash":3000},
+      {"date":"Apr","mobile":440000, "cash":2000},
+      {"date":"May","mobile":520000, "cash":1000},
+      {"date":"Jun","mobile":480000, "cash":2000},
+      {"date":"Jul","mobile":540000, "cash":1000},
+      {"date":"Aug","mobile":510000, "cash":32000},
+      {"date":"Sep","mobile":520000, "cash":30000},
+      {"date":"Oct","mobile":220000, "cash":8000}
+    ],
+    "yearly": [
+      {"date":"2021","mobile":42000, "cash":1200},
+      {"date":"2022","mobile":48000, "cash":900},
+      {"date":"2023","mobile":52000, "cash":1100},
+      {"date":"2024","mobile":61000, "cash":1300},
+      {"date":"2025","mobile":74000, "cash":1400}
+    ]
+  },
+  "activity": [
+    {"user":"john","action":"Logged in","time":"2m ago"},
+    {"user":"alice","action":"Paid Mpesa receipt","time":"10m ago"},
+    {"user":"bob","action":"Created PPPoE user","time":"1h ago"}
+  ]
+}

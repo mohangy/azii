@@ -1,0 +1,1 @@
+const e={name:"Admin",email:"admin@fastnet.example"},s="dark",m={consumerKey:"abc123",consumerSecret:"***"},t={provider:"mock",apiKey:"xyz"},o={profile:e,theme:s,mpesa:m,sms:t};export{o as default,m as mpesa,e as profile,t as sms,s as theme};
